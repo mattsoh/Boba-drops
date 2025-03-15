@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    font-family: 'Arial';
+    background: lightskyblue;
+    color: darkblue;
+}
+img {
+	width: 200px;
+}
+table {
+    border-collapse: collapse; /* Prevents double borders */
+    width: 100%; /* Optional: Set table width */
+}
+  
+th, td {
+    border-bottom: 1px solid #ddd; /* Add a thin, gray line at the bottom */
+    padding: 8px; /* Optional: Add some padding for readability */
+    text-align: left; /* Optional: Align text to the left */
+}
